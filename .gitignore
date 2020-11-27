@@ -12,7 +12,9 @@ untitled/
 
 # Prerequisites
 *.d
-
+.vs/
+Debug/
+Release/
 # Compiled Object files
 *.slo
 *.lo
