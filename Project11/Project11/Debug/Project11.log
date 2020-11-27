@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source1\repos\Project11\Project11\Source.cpp(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source1\repos\Project11\Project11\Source.cpp(52,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Project11.vcxproj -> C:\Users\User\source1\repos\Project11\Debug\Project11.exe
